@@ -3,7 +3,7 @@
 <!--
 **subhamay-cloudworks/subhamay-cloudworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+[Here are some ideas to get you started:](https://subhamay-projects-repository-us-east-1.s3.amazonaws.com/github-banner.png)
 
 - 🔭 I'm currently working on AWS SAM, CloudFormation, Serverless and Terraform projects
 - 🌱 I'm currenly learning Terraform, SAM and Serverless Framework
