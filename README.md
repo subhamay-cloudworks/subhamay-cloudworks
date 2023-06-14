@@ -15,6 +15,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## ETL Patterns
+|Seq# |Project No.|Project Name|Description|Status|AWS CloudFormation|AWS SAM|Serverless|HashiCorp Terraform|
+|---|---|---|---|---|---|---|---|---|
+|1|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB.|$${\color{green}Complete}$$|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0001-tarius-cft)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0001-tarius-sam)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0001-tarius-sls)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0001-tarius-tf)|
+
+## Glue Job Patterns
+|Seq# |Project No.|Project Name|Description|Status|AWS CloudFormation|AWS SAM|Serverless|HashiCorp Terraform|
+|---|---|---|---|---|---|---|---|---|
+
 ## Step Function Patterns
 
 |Seq# |Project No.|Project Name|Description|Status|AWS CloudFormation|AWS SAM|Serverless|HashiCorp Terraform|
@@ -23,9 +32,9 @@
 |2|||Manage a Container Task (Amazon ECS, Amazon SNS)
 |3|0069|Celosia|Transfer Data Records (Lambda, DynamoDB, Amazon SQS)|$${\color{green}Complete}$$|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-cft)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-sam)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-sls)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-tf)|
 |4|0071|Chionodoxa|Poll for Job Status (Lambda, AWS Batch)|In Progress|Not Started|Not Started|Complete|In Progress|
-|5|||Task Timer (Lambda, Amazon SNS)
+|5|0086|Daylily|Task Timer (Lambda, Amazon SNS)|In Progress|In Progress|Not Started|Complete|In Progress|
 |6|||Callback Pattern Example (Amazon SQS, Amazon SNS, Lambda)
-|7||Chrysanthemum|Manage an Amazon EMR Job||Done|In progress|
+|7|0072|Chrysanthemum|Manage an Amazon EMR Job||Done|In progress|
 |8|||Start a Workflow within a Workflow (Step Functions, Lambda)
 |9|0063|Carnation|Dynamically process data with a Map state|CFT|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0063-carnation-cft)|Not Started|Not Started|Not Started|
 |10|||Train a Machine Learning Model
