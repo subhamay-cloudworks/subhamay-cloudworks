@@ -21,7 +21,7 @@
 |---|---|---|---|---|---|---|---|---|
 |1|0070|Chicory|Manage a Batch Job (AWS Batch, Amazon SNS)|In Progress|Not Started|Not Started|Partially Done|In Progress|
 |2|||Manage a Container Task (Amazon ECS, Amazon SNS)
-|3|0069|Celosia|Transfer Data Records (Lambda, DynamoDB, Amazon SQS)|Complete|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-cft)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-sam)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-sls)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-tf)|
+|3|0069|Celosia|Transfer Data Records (Lambda, DynamoDB, Amazon SQS)|$${\color{green}Complete}$$|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-cft)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-sam)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-sls)|[:heavy_check_mark: Done](https://github.com/subhamay-cloudworks/0069-celosia-tf)|
 |4|0071|Chionodoxa|Poll for Job Status (Lambda, AWS Batch)|In Progress|Not Started|Not Started|Complete|In Progress|
 |5|||Task Timer (Lambda, Amazon SNS)
 |6|||Callback Pattern Example (Amazon SQS, Amazon SNS, Lambda)
