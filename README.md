@@ -18,7 +18,7 @@
 ## ETL Patterns
 |Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CFT</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
 |-|-|-|-|-|-|-|-|-|
-|1|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB.|$${\color{green}Complete}$$|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-cft)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sam)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sls)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-tf)|
+|1|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB.|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-cft)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-tf)|
 
 ## Glue Job Patterns
 |Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CFT</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
@@ -30,13 +30,13 @@
 |-|-|-|-|-|-|-|-|-|
 |1|0070|Chicory|Manage a Batch Job (AWS Batch, Amazon SNS)|:x:|:x:|:x:|:yellow_circle:|:x:|
 |2|||Manage a Container Task (Amazon ECS, Amazon SNS)|:x:|:x:|:x:|:x:|:x:|
-|3|0069|Celosia|Transfer Data Records (Lambda, DynamoDB, Amazon SQS)|$${\color{green}Complete}$$|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-cft)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-sam)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-sls)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-tf)|
+|3|0069|Celosia|Transfer Data Records (Lambda, DynamoDB, Amazon SQS)|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-cft)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-tf)|
 |4|0071|Chionodoxa|Poll for Job Status (Lambda, AWS Batch)|:x:|:x:|:x:|:yellow_circle:|:x:|
-|5|0086|Daylily|A Step Function Demo using SNS (Simple Notification Service) and Wait state.|:x:|:x:|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sam)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sls)|:x:|
+|5|0086|Daylily|A Step Function Demo using SNS (Simple Notification Service) and Wait state.|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sls)|:x:|
 |6|||Callback Pattern Example (Amazon SQS, Amazon SNS, Lambda)|:x:|:x:|:x:|:x:|:x:|
 |7|0072|Chrysanthemum|Manage an Amazon EMR Job|:x:|:x:|:x:|:x:|:yellow_circle:|:x:|
 |8|||Start a Workflow within a Workflow (Step Functions, Lambda)|:x:|:x:|:x:|:x:|:x:|
-|9|0063|Carnation|Dynamically process data with a Map state|:x:|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0063-carnation-cft)|:x:|:x:|:x:|
+|9|0063|Carnation|Dynamically process data with a Map state|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0063-carnation-cft)|:x:|:x:|:x:|
 |10|||Train a Machine Learning Model|:x:|:x:|:x:|:x:|:x:|
 |11|||Tune a Machine Learning Model|:x:|:x:|:x:|:x:|:x:|
 |12|||Process High-Volume Messages from Amazon SQS (Express Workflows)|:x:|:x:|:x:|:x:|:x:|
