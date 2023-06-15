@@ -32,7 +32,7 @@
 |2|||Manage a Container Task (Amazon ECS, Amazon SNS)|:x:|:x:|:x:|:x:|:x:|
 |3|0069|Celosia|Transfer Data Records (Lambda, DynamoDB, Amazon SQS)|$${\color{green}Complete}$$|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-cft)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-sam)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-sls)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-tf)|
 |4|0071|Chionodoxa|Poll for Job Status (Lambda, AWS Batch)|:x:|:x:|:x:|:yellow_circle:|:x:|
-|5|0086|Daylily|A Step Function Demo using SNS (Simple Notification Service) and Wait state.|:x:|:x:|:x:|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sls)|:x:|
+|5|0086|Daylily|A Step Function Demo using SNS (Simple Notification Service) and Wait state.|:x:|:x:|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sam)|[:heavy_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sls)|:x:|
 |6|||Callback Pattern Example (Amazon SQS, Amazon SNS, Lambda)|:x:|:x:|:x:|:x:|:x:|
 |7|0072|Chrysanthemum|Manage an Amazon EMR Job|:x:|:x:|:x:|:x:|:yellow_circle:|:x:|
 |8|||Start a Workflow within a Workflow (Step Functions, Lambda)|:x:|:x:|:x:|:x:|:x:|
