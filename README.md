@@ -9,30 +9,32 @@
 - 🔭 I'm currently working on AWS SAM, CloudFormation, Serverless and Terraform projects
 - 🌱 I'm currenly learning Terraform, SAM and Serverless Framework
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about my upcoming projects
 - 📫 How to reach me : subhamay.aws@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+###### CF - CloudFormation : TF - HashiCorp Terraform : SAM - AWS Serverless Application Model : SLS - Serverless Framework ######
+
 ## ETL Patterns
-|Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CFT</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
+|Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CF</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
 |-|-|-|-|-|-|-|-|-|
 |1|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB.|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-cft)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-tf)|
 
 ## Glue Job Patterns
-|Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CFT</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
+|Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CF</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
 |-|-|-|-|-|-|-|-|-|
 
 ## Step Function Patterns
 
-|Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CFT</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
+|Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CF</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
 |-|-|-|-|-|-|-|-|-|
 |1|0070|Chicory|Manage a Batch Job (AWS Batch, Amazon SNS)|:x:|:x:|:x:|:yellow_circle:|:x:|
 |2|||Manage a Container Task (Amazon ECS, Amazon SNS)|:x:|:x:|:x:|:x:|:x:|
 |3|0069|Celosia|Transfer Data Records (Lambda, DynamoDB, Amazon SQS)|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-cft)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0069-celosia-tf)|
 |4|0071|Chionodoxa|Poll for Job Status (Lambda, AWS Batch)|:x:|:x:|:x:|:yellow_circle:|:x:|
-|5|0086|Daylily|A Step Function Demo using SNS (Simple Notification Service) and Wait state.|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sls)|:x:|
+|5|0086|Daylily|A Step Function Demo using SNS (Simple Notification Service) and Wait state.|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-tf)|
 |6|||Callback Pattern Example (Amazon SQS, Amazon SNS, Lambda)|:x:|:x:|:x:|:x:|:x:|
 |7|0072|Chrysanthemum|Manage an Amazon EMR Job|:x:|:x:|:x:|:x:|:yellow_circle:|:x:|
 |8|||Start a Workflow within a Workflow (Step Functions, Lambda)|:x:|:x:|:x:|:x:|:x:|
