@@ -42,7 +42,7 @@
 |10|||Train a Machine Learning Model|:x:|:x:|:x:|:x:|:x:|
 |11|||Tune a Machine Learning Model|:x:|:x:|:x:|:x:|:x:|
 |12|||Process High-Volume Messages from Amazon SQS (Express Workflows)|:x:|:x:|:x:|:x:|:x:|
-|13|||Selective Checkpointing Example (Express Workflows)|:x:|:x:|:x:|:x:|:x:|
+|13|0087|Dandelion|Selective Checkpointing Example (Express Workflows)|:x:|:x:|:x:|:yellow_circle:|:x:|
 |14|||Build an AWS CodeBuild Project (CodeBuild, Amazon SNS)|:x:|:x:|:x:|:x:|:x:|
 |15|||Preprocess data and train a machine learning model|:x:|:x:|:x:|:x:|:x:|
 |16|||Lambda orchestration example|:x:|:x:|:x:|:x:|:x:|
