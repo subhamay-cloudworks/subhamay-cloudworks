@@ -36,7 +36,7 @@
 |4|0071|Chionodoxa|Poll for Job Status (Lambda, AWS Batch)|:x:|:x:|:x:|:yellow_circle:|:x:|
 |5|0086|Daylily|A Step Function Demo using SNS (Simple Notification Service) and Wait state.|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0086-daylily-tf)|
 |6|||Callback Pattern Example (Amazon SQS, Amazon SNS, Lambda)|:x:|:x:|:x:|:x:|:x:|
-|7|0072|Chrysanthemum|Manage an Amazon EMR Job|:x:|:x:|:x:|:x:|:yellow_circle:|:x:|
+|7|0072|Chrysanthemum|Manage an Amazon EMR Job|:x:|:x:|:x:|:yellow_circle:|:yellow_circle:|
 |8|||Start a Workflow within a Workflow (Step Functions, Lambda)|:x:|:x:|:x:|:x:|:x:|
 |9|0063|Carnation|Dynamically process data with a Map state|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0063-carnation-cft)|:x:|:x:|:x:|
 |10|||Train a Machine Learning Model|:x:|:x:|:x:|:x:|:x:|
