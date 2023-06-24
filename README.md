@@ -21,6 +21,9 @@
 |Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CF</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
 |-|-|-|-|-|-|-|-|-|
 |1|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB.|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-cft)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-tf)|
+|2|0088|Decumaria|Enable CloudTrain Trail for DynamoDB data events.|:x:|:x:|:x:|:x:|:x:|
+|3|0089|Delphinium|Scheduling a Lambda function using EventBridge to send an email every day using SES and a pre-signed URL of an image .|:x:|:x:|:x:|:x:|:x:|
+
 
 ## Glue Job Patterns
 |Seq#|<div style="width:10px">Project#</div>|<div style="width:10px">Project Name</div>|<div style="width:500px">Description</div>|<div style="width:10px">Status</div>|<div style="width:10px">CF</div>|<div style="width:10px">SAM</div>|<div style="width:10px">SLS</div>|<div style="width:10px">TF</div>|
