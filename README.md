@@ -13,7 +13,7 @@
 - 💬 Ask me about my upcoming projects
 - 📫 How to reach me : subhamay.aws@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Love to play cuddle my cats Samsung and Thomas.
 
 ###### CF - CloudFormation : TF - HashiCorp Terraform : SAM - AWS Serverless Application Model : SLS - Serverless Framework ######
 
