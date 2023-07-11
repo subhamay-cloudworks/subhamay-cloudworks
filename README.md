@@ -22,7 +22,7 @@
 |-|-|-|-|-|-|-|-|-|
 |1|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB.|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-cft)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-tf)|
 |2|0005|Taurus|Creating a Lambda Layer and adding the same to a Lambda function.|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0005-taurus-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0005-taurus-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0005-taurus-tf)|
-|3|0007|Pisces|S3 Cross Region / Cross Account Replication.|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0007-pisces-cft)|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0007-pisces-tf)|
+|3|0007|Pisces|S3 Cross Region / Cross Account Replication.|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0007-pisces-cft)|:no_entry_sign:|:no_entry_sign:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0007-pisces-tf)|
 |4|0032|Allium|Creating a S3 Bucket with Lifecycle Policy Configuration using Terraform.|:x:|:x:|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0032-allium-tf)|
 |5|0032|Allium|Creating a S3 Bucket with Lifecycle Policy Configuration using Terraform.|:x:|:x:|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0032-allium-tf)|
 |6|0088|Decumaria|Enable CloudTrail Trail for DynamoDB data events.|:x:|:x:|:x:|:x:|:x:|
