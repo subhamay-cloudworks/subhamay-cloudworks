@@ -3,9 +3,11 @@
 <!--
 **subhamay-cloudworks/subhamay-cloudworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 <img src="https://subhamay-projects-repository-us-east-1.s3.amazonaws.com/github-banner.png">
 
+![Subhamay Cloudwork's's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhamay-cloudworks&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamay-cloudworks&show_icons=true&theme=radical)
 - 🔭 I'm currently working on AWS SAM, CloudFormation, Serverless and Terraform projects
 - 🌱 I'm currenly learning Terraform, SAM and Serverless Framework
 - 👯 I’m looking to collaborate on ...
@@ -15,6 +17,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Love to play cuddle my cats Samsung and Thomas.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamay-cloudworks&show_icons=true&locale=en&layout=compact" alt="subhamay-cloudworks" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamay-cloudworks&show_icons=true&locale=en" alt="subhamay-cloudworks" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamay-cloudworks&" alt="subhamay-cloudworks" /></p>
+
 ###### CF - CloudFormation : TF - HashiCorp Terraform : SAM - AWS Serverless Application Model : SLS - Serverless Framework ######
 
 ## ETL Patterns
@@ -23,6 +34,7 @@
 |1|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB.|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-cft)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0001-tarius-tf)|
 |2|0005|Taurus|Creating a Lambda Layer and adding the same to a Lambda function.|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0005-taurus-sam)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0005-taurus-sls)|[:white_check_mark:](https://github.com/subhamay-cloudworks/0005-taurus-tf)|
 |3|0007|Pisces|S3 Cross Region / Cross Account Replication.|$${\color{green}Complete}$$|[:white_check_mark:](https://github.com/subhamay-cloudworks/0007-pisces-cft)|:no_entry_sign:|:no_entry_sign:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0007-pisces-tf)|
+|4|0018|Sunflowers|Accessing a S3 bucket in one AWS Acount (Account-A) from a Lambda function in another AWS Account(Account-B).|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0018-sunflower-cft)|:no_entry_sign:|:no_entry_sign:|:no_entry_sign:|
 |4|0032|Allium|Creating a S3 Bucket with Lifecycle Policy Configuration using Terraform.|:x:|:x:|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0032-allium-tf)|
 |5|0032|Allium|Creating a S3 Bucket with Lifecycle Policy Configuration using Terraform.|:x:|:x:|:x:|:x:|[:white_check_mark:](https://github.com/subhamay-cloudworks/0032-allium-tf)|
 |6|0088|Decumaria|Enable CloudTrail Trail for DynamoDB data events.|:x:|:x:|:x:|:x:|:x:|
