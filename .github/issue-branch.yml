@@ -1,10 +1,5 @@
 branches:
   - label: enhancement
-    prefix: feature/${issue.number%4}-${issue.title,}
+    prefix: feature/
   - label: bug
-    prefix: bugfix/${issue.number%4}-${issue.title,}
-  - label: documentation
-    prefix: docs/${issue.number%4}-${issue.title,}
-  - label: '*'
-    prefix: issues/${issue.number%4}-${issue.title,}
-autoCloseIssue: true
+    prefix: bugfix/
