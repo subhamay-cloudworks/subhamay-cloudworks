@@ -1,11 +1,10 @@
 branches:
   - label: enhancement
-    prefix: feature/
+    prefix: feature/${issue.number%4}-${issue.title,}
   - label: bug
-    prefix: bugfix/
+    prefix: bugfix/${issue.number%4}-${issue.title,}
   - label: documentation
-    prefix: docs/
+    prefix: docs/${issue.number%4}-${issue.title,}
   - label: '*'
-    prefix: issues/
-branchName: 'issue-${issue.number%4}-${issue.title,}'
+    prefix: issues/${issue.number%4}-${issue.title,}
 autoCloseIssue: true
