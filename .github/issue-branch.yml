@@ -1,4 +1,6 @@
 branches:
+  - label: initial push
+    prefix: initial/
   - label: enhancement
     prefix: feature/
   - label: bug
