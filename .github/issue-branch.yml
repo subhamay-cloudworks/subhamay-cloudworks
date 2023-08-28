@@ -9,4 +9,5 @@ branches:
     prefix: docs/
   - label: '*'
     prefix: issue/
+gitSafeReplacementChar: '-'
 branchName: '${issue.number%4}-${issue.title[0,64],}'
