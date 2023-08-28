@@ -10,3 +10,4 @@ branches:
   - label: '*'
     prefix: issue/
 branchName: '${issue.number%4}-${issue.title[0,64],}'
+branchName: '${issue.number%4}-${issue.title[0,64],}'
